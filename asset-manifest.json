@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/denta24/pathFinder/static/css/main.6dfcd059.chunk.css",
+    "main.js": "/denta24/pathFinder/static/js/main.9317ad30.chunk.js",
+    "main.js.map": "/denta24/pathFinder/static/js/main.9317ad30.chunk.js.map",
+    "runtime-main.js": "/denta24/pathFinder/static/js/runtime-main.65460839.js",
+    "runtime-main.js.map": "/denta24/pathFinder/static/js/runtime-main.65460839.js.map",
+    "static/css/2.b9b2dd63.chunk.css": "/denta24/pathFinder/static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.e1acf33a.chunk.js": "/denta24/pathFinder/static/js/2.e1acf33a.chunk.js",
+    "static/js/2.e1acf33a.chunk.js.map": "/denta24/pathFinder/static/js/2.e1acf33a.chunk.js.map",
+    "index.html": "/denta24/pathFinder/index.html",
+    "precache-manifest.aa139df2d5237ff67ed1276552258131.js": "/denta24/pathFinder/precache-manifest.aa139df2d5237ff67ed1276552258131.js",
+    "service-worker.js": "/denta24/pathFinder/service-worker.js",
+    "static/css/2.b9b2dd63.chunk.css.map": "/denta24/pathFinder/static/css/2.b9b2dd63.chunk.css.map",
+    "static/css/main.6dfcd059.chunk.css.map": "/denta24/pathFinder/static/css/main.6dfcd059.chunk.css.map",
+    "static/js/2.e1acf33a.chunk.js.LICENSE.txt": "/denta24/pathFinder/static/js/2.e1acf33a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65460839.js",
+    "static/css/2.b9b2dd63.chunk.css",
+    "static/js/2.e1acf33a.chunk.js",
+    "static/css/main.6dfcd059.chunk.css",
+    "static/js/main.9317ad30.chunk.js"
+  ]
+}
